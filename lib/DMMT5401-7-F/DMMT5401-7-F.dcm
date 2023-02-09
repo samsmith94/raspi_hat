@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMMT5401-7-F
+D Transistor Dual PNP 150V 0.2A SOT26-6 Diodes Inc DMMT5401-7-F Dual PNP Bipolar Transistor, -200 mA, -150 V, 6-Pin SOT-26
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-9/DSA-164366.pdf
+$ENDCMP
+#
+#End Doc Library

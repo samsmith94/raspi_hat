@@ -1,3 +1,8 @@
 (sym_lib_table
   (lib (name Raspberry_Pi_2_or_3)(type Legacy)(uri ${KIPRJMOD}/lib/Raspberry-Pi-3-library-for-kicad-master/Raspberry_Pi_2_or_3.lib)(options "")(descr ""))
+  (lib (name 39502-1003)(type Legacy)(uri ${KIPRJMOD}/lib/39502-1003/39502-1003.lib)(options "")(descr ""))
+  (lib (name DMG2305UX-7)(type Legacy)(uri ${KIPRJMOD}/lib/DMG2305UX-7/DMG2305UX-7.lib)(options "")(descr ""))
+  (lib (name DMMT5401-7-F)(type Legacy)(uri ${KIPRJMOD}/lib/DMMT5401-7-F/DMMT5401-7-F.lib)(options "")(descr ""))
+  (lib (name SRU1048-150Y)(type Legacy)(uri ${KIPRJMOD}/lib/SRU1048-150Y/SRU1048-150Y.lib)(options "")(descr ""))
+  (lib (name TPS54202DDCR)(type Legacy)(uri ${KIPRJMOD}/lib/TPS54202DDCR/TPS54202DDCR.lib)(options "")(descr ""))
 )

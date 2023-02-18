@@ -5,4 +5,7 @@
   (lib (name DMMT5401-7-F)(type KiCad)(uri ${KIPRJMOD}/lib/DMMT5401-7-F/DMMT5401-7-F.pretty)(options "")(descr ""))
   (lib (name SRU1048-150Y)(type KiCad)(uri ${KIPRJMOD}/lib/SRU1048-150Y/SRU1048-150Y.pretty)(options "")(descr ""))
   (lib (name TPS54202DDCR)(type KiCad)(uri ${KIPRJMOD}/lib/TPS54202DDCR/TPS54202DDCR.pretty)(options "")(descr ""))
+  (lib (name 39502-1002)(type KiCad)(uri ${KIPRJMOD}/lib/39502-1002/39502-1002.pretty)(options "")(descr ""))
+  (lib (name raspberry-pi-pico-r3-1)(type KiCad)(uri ${KIPRJMOD}/lib/raspberry-pi-pico-r3-1/raspberry-pi-pico-r3-1.pretty)(options "")(descr ""))
+  (lib (name MC74HC32ADG)(type KiCad)(uri ${KIPRJMOD}/lib/MC74HC32ADG/MC74HC32ADG.pretty)(options "")(descr ""))
 )

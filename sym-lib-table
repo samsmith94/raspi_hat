@@ -5,4 +5,7 @@
   (lib (name DMMT5401-7-F)(type Legacy)(uri ${KIPRJMOD}/lib/DMMT5401-7-F/DMMT5401-7-F.lib)(options "")(descr ""))
   (lib (name SRU1048-150Y)(type Legacy)(uri ${KIPRJMOD}/lib/SRU1048-150Y/SRU1048-150Y.lib)(options "")(descr ""))
   (lib (name TPS54202DDCR)(type Legacy)(uri ${KIPRJMOD}/lib/TPS54202DDCR/TPS54202DDCR.lib)(options "")(descr ""))
+  (lib (name 39502-1002)(type Legacy)(uri ${KIPRJMOD}/lib/39502-1002/39502-1002.lib)(options "")(descr ""))
+  (lib (name raspberry-pi-pico-r3-1)(type Legacy)(uri ${KIPRJMOD}/lib/raspberry-pi-pico-r3-1/raspberry-pi-pico-r3-1.lib)(options "")(descr ""))
+  (lib (name MC74HC32ADG)(type Legacy)(uri ${KIPRJMOD}/lib/MC74HC32ADG/MC74HC32ADG.lib)(options "")(descr ""))
 )

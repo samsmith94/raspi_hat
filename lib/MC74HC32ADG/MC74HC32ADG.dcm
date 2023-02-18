@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC74HC32ADG
+D 
+K
+F http://www.onsemi.com/pub/Collateral/MC74HC32A-D.PDF
+$ENDCMP
+#
+#End Doc Library
